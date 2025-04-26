@@ -1,4 +1,4 @@
-# NGINX Load Balancer Setup Guide
+# NGINX 
 
 This Repository sets up an NGINX Configuration file for different aspect of Nginx as nginx can be used as loadbalancer ,webserver.
 
